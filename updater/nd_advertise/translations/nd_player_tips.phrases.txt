@@ -1,0 +1,10 @@
+"Phrases"
+{
+  "Siege Weapons"
+  {
+    "en"    "Using Conventional Bullets Against Structures is Highly Ineffective! You Require Heavy Anti-Structure Equipment!" 
+  }
+  
+  
+  
+}
